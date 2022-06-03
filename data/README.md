@@ -1,0 +1,1 @@
+This directory contains all files which contain refined data primed for analysis.

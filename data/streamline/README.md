@@ -1,0 +1,1 @@
+This directory contains data files created via our streamlined approach. The most important data files have been copied to `data/final/`.

@@ -1,0 +1,1 @@
+This directory precomputes helper dictionaries to keep computations tractable.

@@ -1,0 +1,1 @@
+This directory contains all raw `.csv` files downloaded from the Met Eireann, [https://www.met.ie/](https://www.met.ie/).

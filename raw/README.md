@@ -1,0 +1,1 @@
+This directory contains all files which contain unrefined data downloaded from some source prior to any edits being made.

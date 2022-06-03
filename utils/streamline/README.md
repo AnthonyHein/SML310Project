@@ -1,0 +1,1 @@
+This directory contains Python source files that define low-level services intended for one-off use or constants derived elsewhere.
